@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trivia-game/static/css/main.7ee663da.chunk.css",
+    "main.js": "/trivia-game/static/js/main.5e7b2b67.chunk.js",
+    "main.js.map": "/trivia-game/static/js/main.5e7b2b67.chunk.js.map",
+    "runtime-main.js": "/trivia-game/static/js/runtime-main.34810379.js",
+    "runtime-main.js.map": "/trivia-game/static/js/runtime-main.34810379.js.map",
+    "static/js/2.434e81d2.chunk.js": "/trivia-game/static/js/2.434e81d2.chunk.js",
+    "static/js/2.434e81d2.chunk.js.map": "/trivia-game/static/js/2.434e81d2.chunk.js.map",
+    "index.html": "/trivia-game/index.html",
+    "precache-manifest.45b6e21c9d1155aaa97ad176e36c2cb0.js": "/trivia-game/precache-manifest.45b6e21c9d1155aaa97ad176e36c2cb0.js",
+    "service-worker.js": "/trivia-game/service-worker.js",
+    "static/css/main.7ee663da.chunk.css.map": "/trivia-game/static/css/main.7ee663da.chunk.css.map",
+    "static/js/2.434e81d2.chunk.js.LICENSE": "/trivia-game/static/js/2.434e81d2.chunk.js.LICENSE",
+    "static/media/App.css": "/trivia-game/static/media/DigitalNumbers-Regular.df8665d3.ttf",
+    "static/media/trivia.png": "/trivia-game/static/media/trivia.466d153e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34810379.js",
+    "static/js/2.434e81d2.chunk.js",
+    "static/css/main.7ee663da.chunk.css",
+    "static/js/main.5e7b2b67.chunk.js"
+  ]
+}
